@@ -2,6 +2,8 @@
 
 
 //this comment is from online
+
+//this is to make sure i'm on right project
 object git_scala_object {
 
   def main(args: Array[String]): Unit ={
